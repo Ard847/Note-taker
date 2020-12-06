@@ -1,6 +1,6 @@
 # Note-taker
 
-#Deployed aplication
+# Deployed aplication
 https://floating-hollows-66687.herokuapp.com/
 
 ## Description
